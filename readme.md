@@ -14,7 +14,7 @@ The website is desgined and with simle HTML,CSS .It contains link of blog and do
 
 ## Screenshots
 
-![App Screenshot]<img src="res/CSE-Universe-intro.png">
+![App Screenshot]<img src="res/2022-06-02.png">
 
 
 ## Features
